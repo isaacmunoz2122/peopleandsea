@@ -1,2 +1,2 @@
 # peopleandsea
-conect to the people around the world 
+Connect people around the world
